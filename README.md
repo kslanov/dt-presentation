@@ -11,10 +11,14 @@
 Редакция v3 (2026-11-02) по ТЗ `dt-installer/TZ-presentation-v3.md`; собрана в Claude Design.
 
 
-**Установочный комплект r4** с движком 0.3.17, настройкой ядра и опциональным
-Сном через Cursor. Начните с INSTALL.md из архива.
+**Установочный комплект r5** с настройкой ядра, продолжением настройки в новом
+чате и опциональным Сном через Cursor. Откройте распакованную папку и напишите
+«поставь» или начните с INSTALL.md из архива.
 
-[Скачать кит r4](https://kslanov.github.io/dt-presentation/dt-rollout-first-pilot-r4.zip)
+[Скачать кит r5](https://kslanov.github.io/dt-presentation/dt-rollout-first-pilot-r5.zip)
+
+SHA-256 архива r5:
+`5f6521f511191ea10f13f7ba8af1d378cdb2cc9a86dace613307da70f51740a4`.
 
 ### Проверка r4 перед публикацией
 
