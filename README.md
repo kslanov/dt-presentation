@@ -15,10 +15,24 @@
 в новом чате и экраном прогресса. Откройте распакованную папку и напишите
 «поставь» или начните с INSTALL.md из архива.
 
-[Скачать кит r6](https://kslanov.github.io/dt-presentation/dt-rollout-first-pilot-r6.zip)
+[Скачать R6 для macOS](https://kslanov.github.io/dt-presentation/dt-rollout-first-pilot-r6.zip)
 
 SHA-256 архива r6:
 `1b57bf7374429409191c7819da5bd26bba1dafecfef3d5df5b4233b0362b39c8`.
+
+### Windows 11 x64 и Cursor · тестовый комплект R6
+
+[Скачать Windows-комплект R6](https://kslanov.github.io/dt-presentation/DT-Windows-Cursor-R6.zip)
+
+В архиве лежат исходный кит R6, сценарий первого прогона и контрольная заметка «Маяк в Ладоге». Для проверки нужны Cursor Desktop и uv. Распакуйте ZIP и выполните в его папке:
+
+```powershell
+uv run --no-project --python 3.12 python run.py
+```
+
+Сценарий покажет путь к `report.json` с результатом или первым отказом. Запрос для проверки заметки в Cursor есть в `README.md` внутри архива. Сквозной прогон на Windows еще предстоит.
+
+SHA-256 Windows-комплекта: `95ab08e9b3e55137af0680cbd3b49f1ef8d919f9ba31fc8fb9044b4ab80a9fe5`.
 
 ### Проверка r4 перед публикацией
 
