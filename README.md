@@ -17,18 +17,18 @@
 в новом чате и экраном прогресса. Откройте распакованную папку и напишите
 «поставь» или начните с INSTALL.md из архива.
 
-[Скачать R6 для macOS](https://kslanov.github.io/dt-presentation/dt-rollout-first-pilot-r6.zip)
+[Скачать R6 для macOS](https://kslanov.github.io/dt-presentation/DT-Cursor-R6-mac-9e38ac4b0eaa.zip)
 
 SHA-256 архива r6:
-`1b57bf7374429409191c7819da5bd26bba1dafecfef3d5df5b4233b0362b39c8`.
+`550c111a19d339407e236636f25b3a66a560e82f586c469d12e99602d1ab0ead`.
 
 ### Windows 11 x64 и Cursor · сборка для ручной приемки
 
-[Скачать Windows-кит R6](https://kslanov.github.io/dt-presentation/DT-Windows-Cursor-R6.zip?v=850b645776c7)
+[Скачать Windows-кит R6](https://kslanov.github.io/dt-presentation/DT-Cursor-R6-win-9caf2bae4d84.zip)
 
 Выберите «Извлечь все…». В Cursor откройте папку с INSTALL.md, выберите Agent и напишите **Поставь**. Cursor проведет от выбора хранилища до сохранения первой справки по учебной заметке. Сквозная проверка на чистой Windows ожидает результата.
 
-Ревизия `850b645776c7`, движок `0.3.17`. SHA-256 архива `93794ad1bae97b54e8ed19a125e172ee9a3e24e36d6fee12c0e61a20328bdfde`.
+Ревизия `9caf2bae4d84`, движок `0.3.17`. SHA-256 архива `3d627af60b7e5d8ad8f8d3edde253375ef2c64feae7307f086ba2c75713235a9`.
 
 ### Проверка r4 перед публикацией
 
